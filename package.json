@@ -28,7 +28,7 @@
     "marked": "^4.2.12",
     "rxjs": "^7.4.0",
     "tslib": "^2.3.0",
-    "zone.js": "~0.12.0"
+    "zone.js": "^0.13.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^15.2.4",
@@ -45,7 +45,7 @@
     "karma-jasmine-html-reporter": "~2.0.0",
     "lint-staged": "^13.2.2",
     "prettier": "^2.8.8",
-    "typescript": "~4.8.2"
+    "typescript": "^4.9.3"
   },
   "lint-staged": {
     "*.{ts,html,css,json,md}": "prettier --write"
